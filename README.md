@@ -8,7 +8,7 @@ ______________________
 CONTENIDO DEL EXAMEN
 ______________________
 
-0. Algunas deficiniones
+0. Algunas definiciones
 1. La clase String y StringBuilder
 2. Arrays y Matrices
 3. Recursividad
