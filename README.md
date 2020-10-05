@@ -5,7 +5,7 @@ Primero se realizará un exámen del segundo.
 Es decir, este proyecto es sólo una preparación para el examen de los contenidos del 2Trimestre de 1º de DAM (Desarrollo de Aplicaciones Móviles).
 
 ______________________
-Contenido
+CONTENIDO DEL EXAMEN
 ______________________
 
 0. Algunas deficiciones
