@@ -13,7 +13,7 @@ ______________________
 2. Arrays y Matrices
 3. Recursividad
 4. Herencia y polimorfismo
-5.  Clases Abstractas
+5. Interfaces
 6. Clases Abstractas
 7. Modelo Vista Controlador
 
